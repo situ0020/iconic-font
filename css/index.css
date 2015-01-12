@@ -19,3 +19,17 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+body {
+	margin: 0;
+}
+
+.main {
+	text-align: center;
+	background: transparent  url('../img/galaxy.jpg') no-repeat center top;
+	background-size: cover;
+	display: block;
+	margin: auto;
+	padding: 2em 0;
+	font-size: 3em;
+}
