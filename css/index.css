@@ -41,3 +41,18 @@ h3 {
 .icons {
 	padding: 0 10%;
 }
+
+li {
+	display: inline-block;
+	width: 80px;
+	padding: .5em;
+	opacity: 0;
+	-webkit-transition: opacity 0.5s ease-in 0s;
+	-moz-transition: opacity 0.5s ease-in 0s;
+	-o-transition: opacity 0.5s ease-in 0s;
+	transition: opacity 0.5s ease-in 0s;
+}
+
+li:hover {
+	opacity: 1;
+}
