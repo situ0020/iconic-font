@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="alien" unicode="&#xe800;" d="m800 594v100h-150v100h-300v-100h-150v-100h-50v-200h50v-200h50v-100h100v-100h50v-100h200v100h50v100h100v100h50v200h50v200h-50z m-510-212l-22 110 120-14 36-144-134 48z m432 62l-12-62-134-46 36 144 120 14-10-50z" horiz-adv-x="1000" />
+<glyph glyph-name="astronaut" unicode="&#xe801;" d="m850 492v62h-50v100h-150v100h-300v-100h-150v-100h-50v-62h-100v-138h100v-100h50v-100h98v-100h-50v-100h500v100h-50v100h102v100h50v100h100v138h-100z m-98-116h-72v-100h-44v-50h-264v50h-44v100h-78v100h78v50h44v50h264v-50h44v-50h70v-100z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
